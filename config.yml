@@ -27,7 +27,7 @@ params:
   disableThemeToggle: false
 
   ShowReadingTime: true
-  ShowShareButtons: true
+  ShowShareButtons: false
   ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: false
@@ -61,7 +61,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Rik Williamson
     subtitle: "General Engineering Masters Student"
-    imageUrl: "<img location>"
+    #imageUrl: "https://lh3.googleusercontent.com/pw/ADCreHfY-DqpIVh8wQPGv1sTmuW_bWizyefS591YyHujpfsErOFAhh_Q_C0Fc93JjqEyoZG7yXgMbloaVLTvB03sSq-SX-0B-DF-_eLA1-w8uFw_uVRX9-3L5IrX22HQxBGxXiNR-4ZjizCudZQp6Y8txtywvg=w637-h956-s-no?authuser=0"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
@@ -72,6 +72,8 @@ params:
         url: posts
       - name: Projects
         url: projects
+      - name: CV
+        url: cv
 
 
   # home-info mode
@@ -80,12 +82,10 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/rikeroo"
+    - name: linkedin
+      url: "https://linkedin.com/in/rik-williamson-eng"
 
   analytics:
     google:
@@ -100,10 +100,10 @@ params:
     hiddenInList: true # hide on list pages and home
     hiddenInSingle: true # hide on single page
 
-  editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+  # editPost:
+  #   URL: "https://github.com/<path_to_repo>/content"
+  #   Text: "Suggest Changes" # edit text
+  #   appendFilePath: true # to append file path to Edit link
 
   # for search
   # https://fusejs.io/api/options.html
@@ -117,13 +117,13 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: projects
-      name: Projects
-      url: /projects/
-      weight: 10
     - identifier: about
       name: About
       url: /about/
+      weight: 10
+    - identifier: projects
+      name: Projects
+      url: /projects/
       weight: 20
     - identifier: github
       name: GitHub
