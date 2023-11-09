@@ -121,9 +121,9 @@ menu:
       name: Projects
       url: /projects/
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
+    - identifier: about
+      name: About
+      url: /about/
       weight: 20
     - identifier: github
       name: GitHub
