@@ -9,7 +9,17 @@
       <url>http://rikwilliamson.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
       <link>http://rikwilliamson.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="http://rikwilliamson.com/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Thu, 09 Nov 2023 21:35:14 +0000</lastBuildDate><atom:link href="http://rikwilliamson.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Testpost</title>
+      <link>http://rikwilliamson.com/posts/testpost/</link>
+      <pubDate>Thu, 09 Nov 2023 21:35:14 +0000</pubDate>
+      
+      <guid>http://rikwilliamson.com/posts/testpost/</guid>
+      <description>This is a test</description>
+    </item>
+    
     <item>
       <title>Test</title>
       <link>http://rikwilliamson.com/test/</link>
@@ -31,13 +41,12 @@ blah blah </description>
     
     <item>
       <title>Habit Reminder</title>
-      <link>http://rikwilliamson.com/posts/habit_reminder/</link>
+      <link>http://rikwilliamson.com/projects/habit_reminder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://rikwilliamson.com/posts/habit_reminder/</guid>
+      <guid>http://rikwilliamson.com/projects/habit_reminder/</guid>
       <description>Test page</description>
     </item>
-    
     
   </channel>
 </rss>
