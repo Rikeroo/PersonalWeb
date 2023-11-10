@@ -68,12 +68,10 @@ params:
     buttons:
       - name: About
         url: about
-      - name: Posts
-        url: posts
       - name: Projects
         url: projects
       - name: CV
-        url: cv
+        url: Engineering_CV.pdf
 
 
   # home-info mode
