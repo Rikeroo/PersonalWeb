@@ -52,16 +52,16 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
+    text: "Rik Williamson"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
   # profile-mode
   profileMode:
     enabled: true # needs to be explicitly set
-    title: Rik Williamson
-    subtitle: "General Engineering Masters Student"
-    #imageUrl: "https://lh3.googleusercontent.com/pw/ADCreHfY-DqpIVh8wQPGv1sTmuW_bWizyefS591YyHujpfsErOFAhh_Q_C0Fc93JjqEyoZG7yXgMbloaVLTvB03sSq-SX-0B-DF-_eLA1-w8uFw_uVRX9-3L5IrX22HQxBGxXiNR-4ZjizCudZQp6Y8txtywvg=w637-h956-s-no?authuser=0"
+    title: Welcome to my site!
+    subtitle: "I'm a General Engineering Masters Student in their 4th year, specialising in Mechanical Engineering. Here you'll find some info about me, my projects and my CV."
+    imageUrl: "rik_portrait_square_expanded.jpg"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
