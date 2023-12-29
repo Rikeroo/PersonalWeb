@@ -60,7 +60,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Welcome to my site!
-    subtitle: "I'm a General Engineering Masters Student in their 4th year, specialising in Mechanical Engineering. Here you'll find some info about me, my projects and my CV."
+    subtitle: "I'm a General Engineering Masters Student in my 4th year, specialising in Mechanical Engineering. Here you'll find some info about me, my projects and my CV."
     imageUrl: "rik_portrait_square_expanded.jpg"
     imageWidth: 120
     imageHeight: 120
