@@ -11,6 +11,15 @@
     </image>
     <generator>Hugo -- gohugo.io</generator><atom:link href="http://rikwilliamson.com/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Go-lift</title>
+      <link>http://rikwilliamson.com/projects/go_lift/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://rikwilliamson.com/projects/go_lift/</guid>
+      <description>Introduction Stack Choice: </description>
+    </item>
+    
+    <item>
       <title>Habit Reminder</title>
       <link>http://rikwilliamson.com/projects/habit_reminder/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
