@@ -21,21 +21,12 @@
     </item>
     
     <item>
-      <title>Test</title>
-      <link>http://rikwilliamson.com/test/</link>
-      <pubDate>Thu, 09 Nov 2023 17:36:06 +0000</pubDate>
-      
-      <guid>http://rikwilliamson.com/test/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>http://rikwilliamson.com/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>http://rikwilliamson.com/about/</guid>
-      <description>Hi, I&amp;rsquo;m a 4th Year General Engineering Student at the University of Sheffied, specialising in Mechanical Engineering. After specialising in 3rd Year, I chose Modules in Mathematical Computational Methods, covering the theory behind finite element models, Advanced Solids, explaining analytical techniques for determining stresses for complex geometries, Renewable Energy and Aerodynamic design as well as FEA and CFD modules. In my final year, I&amp;rsquo;m taking Additive Manufacturing, Advanced Fluid Dynamics, Advanced Energy and Power, and Design and Manufacture of Composites.</description>
+      <description>Hi, I&amp;rsquo;m currently an Automotive Embedded Software Engineer working at Lotus Cars. My educational background is in Mechanical Engineering; studying General Engineering at the University of Sheffield and specialising in Mechanical, taking teh vast majority of modules from that department. I also chose Modules in Mathematical Computational Methods, covering the theory behind finite element models, Advanced Solids, explaining analytical techniques for determining stresses for complex geometries, Renewable Energy and Aerodynamic design as well as FEA and CFD modules.</description>
     </item>
     
     <item>
