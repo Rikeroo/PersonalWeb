@@ -71,7 +71,7 @@ params:
       - name: Projects
         url: projects
       - name: CV
-        url: Engineering_CV.pdf
+        url: RikW_CV.pdf
 
 
   # home-info mode
